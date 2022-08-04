@@ -14,19 +14,23 @@
 		F8803578289B0AEE0074E8DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8803577289B0AEE0074E8DD /* Assets.xcassets */; };
 		F880357B289B0AEE0074E8DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8803579289B0AEE0074E8DD /* LaunchScreen.storyboard */; };
 		F8803586289B0AEE0074E8DD /* Project01Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8803585289B0AEE0074E8DD /* Project01Tests.swift */; };
-		F8803590289B0AEE0074E8DD /* Project01UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F880358F289B0AEE0074E8DD /* Project01UITests.swift */; };
-		F8803592289B0AEE0074E8DD /* Project01UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8803591289B0AEE0074E8DD /* Project01UITestsLaunchTests.swift */; };
+		F88035A9289B0B3A0074E8DD /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F880359F289B0B3A0074E8DD /* nssl0049.jpg */; };
+		F88035AA289B0B3A0074E8DD /* nssl0046.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F88035A0289B0B3A0074E8DD /* nssl0046.jpg */; };
+		F88035AB289B0B3A0074E8DD /* nssl0091.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F88035A1289B0B3A0074E8DD /* nssl0091.jpg */; };
+		F88035AC289B0B3A0074E8DD /* nssl0045.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F88035A2289B0B3A0074E8DD /* nssl0045.jpg */; };
+		F88035AD289B0B3A0074E8DD /* nssl0051.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F88035A3289B0B3A0074E8DD /* nssl0051.jpg */; };
+		F88035AE289B0B3A0074E8DD /* nssl0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F88035A4289B0B3A0074E8DD /* nssl0041.jpg */; };
+		F88035AF289B0B3A0074E8DD /* nssl0042.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F88035A5289B0B3A0074E8DD /* nssl0042.jpg */; };
+		F88035B0289B0B3A0074E8DD /* nssl0043.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F88035A6289B0B3A0074E8DD /* nssl0043.jpg */; };
+		F88035B1289B0B3A0074E8DD /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F88035A7289B0B3A0074E8DD /* nssl0033.jpg */; };
+		F88035B2289B0B3A0074E8DD /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F88035A8289B0B3A0074E8DD /* nssl0034.jpg */; };
+		F88035B4289BF8360074E8DD /* DetailViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F88035B3289BF8360074E8DD /* DetailViewTests.swift */; };
+		F88035B6289BF8A60074E8DD /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F88035B5289BF8A60074E8DD /* DetailViewController.swift */; };
+		F88035B8289C2F520074E8DD /* MainCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F88035B7289C2F520074E8DD /* MainCoordinator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
 		F8803582289B0AEE0074E8DD /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = F8803563289B0AEC0074E8DD /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = F880356A289B0AEC0074E8DD;
-			remoteInfo = Project01;
-		};
-		F880358C289B0AEE0074E8DD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = F8803563289B0AEC0074E8DD /* Project object */;
 			proxyType = 1;
@@ -46,9 +50,19 @@
 		F880357C289B0AEE0074E8DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F8803581289B0AEE0074E8DD /* Project01Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Project01Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8803585289B0AEE0074E8DD /* Project01Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project01Tests.swift; sourceTree = "<group>"; };
-		F880358B289B0AEE0074E8DD /* Project01UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Project01UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F880358F289B0AEE0074E8DD /* Project01UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project01UITests.swift; sourceTree = "<group>"; };
-		F8803591289B0AEE0074E8DD /* Project01UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project01UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F880359F289B0B3A0074E8DD /* nssl0049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0049.jpg; sourceTree = "<group>"; };
+		F88035A0289B0B3A0074E8DD /* nssl0046.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0046.jpg; sourceTree = "<group>"; };
+		F88035A1289B0B3A0074E8DD /* nssl0091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0091.jpg; sourceTree = "<group>"; };
+		F88035A2289B0B3A0074E8DD /* nssl0045.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0045.jpg; sourceTree = "<group>"; };
+		F88035A3289B0B3A0074E8DD /* nssl0051.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0051.jpg; sourceTree = "<group>"; };
+		F88035A4289B0B3A0074E8DD /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpg; sourceTree = "<group>"; };
+		F88035A5289B0B3A0074E8DD /* nssl0042.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0042.jpg; sourceTree = "<group>"; };
+		F88035A6289B0B3A0074E8DD /* nssl0043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0043.jpg; sourceTree = "<group>"; };
+		F88035A7289B0B3A0074E8DD /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
+		F88035A8289B0B3A0074E8DD /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
+		F88035B3289BF8360074E8DD /* DetailViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewTests.swift; sourceTree = "<group>"; };
+		F88035B5289BF8A60074E8DD /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		F88035B7289C2F520074E8DD /* MainCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainCoordinator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,13 +80,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F8803588289B0AEE0074E8DD /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -81,7 +88,6 @@
 			children = (
 				F880356D289B0AEC0074E8DD /* Project01 */,
 				F8803584289B0AEE0074E8DD /* Project01Tests */,
-				F880358E289B0AEE0074E8DD /* Project01UITests */,
 				F880356C289B0AEC0074E8DD /* Products */,
 			);
 			sourceTree = "<group>";
@@ -91,7 +97,6 @@
 			children = (
 				F880356B289B0AEC0074E8DD /* Project01.app */,
 				F8803581289B0AEE0074E8DD /* Project01Tests.xctest */,
-				F880358B289B0AEE0074E8DD /* Project01UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -106,6 +111,9 @@
 				F8803577289B0AEE0074E8DD /* Assets.xcassets */,
 				F8803579289B0AEE0074E8DD /* LaunchScreen.storyboard */,
 				F880357C289B0AEE0074E8DD /* Info.plist */,
+				F880359E289B0B3A0074E8DD /* Content */,
+				F88035B5289BF8A60074E8DD /* DetailViewController.swift */,
+				F88035B7289C2F520074E8DD /* MainCoordinator.swift */,
 			);
 			path = Project01;
 			sourceTree = "<group>";
@@ -114,17 +122,26 @@
 			isa = PBXGroup;
 			children = (
 				F8803585289B0AEE0074E8DD /* Project01Tests.swift */,
+				F88035B3289BF8360074E8DD /* DetailViewTests.swift */,
 			);
 			path = Project01Tests;
 			sourceTree = "<group>";
 		};
-		F880358E289B0AEE0074E8DD /* Project01UITests */ = {
+		F880359E289B0B3A0074E8DD /* Content */ = {
 			isa = PBXGroup;
 			children = (
-				F880358F289B0AEE0074E8DD /* Project01UITests.swift */,
-				F8803591289B0AEE0074E8DD /* Project01UITestsLaunchTests.swift */,
+				F880359F289B0B3A0074E8DD /* nssl0049.jpg */,
+				F88035A0289B0B3A0074E8DD /* nssl0046.jpg */,
+				F88035A1289B0B3A0074E8DD /* nssl0091.jpg */,
+				F88035A2289B0B3A0074E8DD /* nssl0045.jpg */,
+				F88035A3289B0B3A0074E8DD /* nssl0051.jpg */,
+				F88035A4289B0B3A0074E8DD /* nssl0041.jpg */,
+				F88035A5289B0B3A0074E8DD /* nssl0042.jpg */,
+				F88035A6289B0B3A0074E8DD /* nssl0043.jpg */,
+				F88035A7289B0B3A0074E8DD /* nssl0033.jpg */,
+				F88035A8289B0B3A0074E8DD /* nssl0034.jpg */,
 			);
-			path = Project01UITests;
+			path = Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -165,24 +182,6 @@
 			productReference = F8803581289B0AEE0074E8DD /* Project01Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		F880358A289B0AEE0074E8DD /* Project01UITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = F880359B289B0AEE0074E8DD /* Build configuration list for PBXNativeTarget "Project01UITests" */;
-			buildPhases = (
-				F8803587289B0AEE0074E8DD /* Sources */,
-				F8803588289B0AEE0074E8DD /* Frameworks */,
-				F8803589289B0AEE0074E8DD /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				F880358D289B0AEE0074E8DD /* PBXTargetDependency */,
-			);
-			name = Project01UITests;
-			productName = Project01UITests;
-			productReference = F880358B289B0AEE0074E8DD /* Project01UITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -197,10 +196,6 @@
 						CreatedOnToolsVersion = 13.4.1;
 					};
 					F8803580289B0AEE0074E8DD = {
-						CreatedOnToolsVersion = 13.4.1;
-						TestTargetID = F880356A289B0AEC0074E8DD;
-					};
-					F880358A289B0AEE0074E8DD = {
 						CreatedOnToolsVersion = 13.4.1;
 						TestTargetID = F880356A289B0AEC0074E8DD;
 					};
@@ -221,7 +216,6 @@
 			targets = (
 				F880356A289B0AEC0074E8DD /* Project01 */,
 				F8803580289B0AEE0074E8DD /* Project01Tests */,
-				F880358A289B0AEE0074E8DD /* Project01UITests */,
 			);
 		};
 /* End PBXProject section */
@@ -231,20 +225,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F88035AA289B0B3A0074E8DD /* nssl0046.jpg in Resources */,
+				F88035B1289B0B3A0074E8DD /* nssl0033.jpg in Resources */,
+				F88035AD289B0B3A0074E8DD /* nssl0051.jpg in Resources */,
+				F88035AB289B0B3A0074E8DD /* nssl0091.jpg in Resources */,
+				F88035B0289B0B3A0074E8DD /* nssl0043.jpg in Resources */,
+				F88035B2289B0B3A0074E8DD /* nssl0034.jpg in Resources */,
+				F88035A9289B0B3A0074E8DD /* nssl0049.jpg in Resources */,
+				F88035AE289B0B3A0074E8DD /* nssl0041.jpg in Resources */,
+				F88035AF289B0B3A0074E8DD /* nssl0042.jpg in Resources */,
 				F880357B289B0AEE0074E8DD /* LaunchScreen.storyboard in Resources */,
 				F8803578289B0AEE0074E8DD /* Assets.xcassets in Resources */,
+				F88035AC289B0B3A0074E8DD /* nssl0045.jpg in Resources */,
 				F8803576289B0AEC0074E8DD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		F880357F289B0AEE0074E8DD /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F8803589289B0AEE0074E8DD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -261,6 +258,8 @@
 				F8803573289B0AEC0074E8DD /* ViewController.swift in Sources */,
 				F880356F289B0AEC0074E8DD /* AppDelegate.swift in Sources */,
 				F8803571289B0AEC0074E8DD /* SceneDelegate.swift in Sources */,
+				F88035B8289C2F520074E8DD /* MainCoordinator.swift in Sources */,
+				F88035B6289BF8A60074E8DD /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,15 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F8803586289B0AEE0074E8DD /* Project01Tests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F8803587289B0AEE0074E8DD /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				F8803590289B0AEE0074E8DD /* Project01UITests.swift in Sources */,
-				F8803592289B0AEE0074E8DD /* Project01UITestsLaunchTests.swift in Sources */,
+				F88035B4289BF8360074E8DD /* DetailViewTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,11 +279,6 @@
 			isa = PBXTargetDependency;
 			target = F880356A289B0AEC0074E8DD /* Project01 */;
 			targetProxy = F8803582289B0AEE0074E8DD /* PBXContainerItemProxy */;
-		};
-		F880358D289B0AEE0074E8DD /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = F880356A289B0AEC0074E8DD /* Project01 */;
-			targetProxy = F880358C289B0AEE0074E8DD /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -442,7 +428,6 @@
 				INFOPLIST_FILE = Project01/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -470,7 +455,6 @@
 				INFOPLIST_FILE = Project01/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -526,42 +510,6 @@
 			};
 			name = Release;
 		};
-		F880359C289B0AEE0074E8DD /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = EKZMJ583Y3;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.CRG.Project01UITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Project01;
-			};
-			name = Debug;
-		};
-		F880359D289B0AEE0074E8DD /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = EKZMJ583Y3;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.CRG.Project01UITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Project01;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -588,15 +536,6 @@
 			buildConfigurations = (
 				F8803599289B0AEE0074E8DD /* Debug */,
 				F880359A289B0AEE0074E8DD /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		F880359B289B0AEE0074E8DD /* Build configuration list for PBXNativeTarget "Project01UITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				F880359C289B0AEE0074E8DD /* Debug */,
-				F880359D289B0AEE0074E8DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
